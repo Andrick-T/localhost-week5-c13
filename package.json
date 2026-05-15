@@ -1,0 +1,15 @@
+{
+  "name": "food-recipe-logger",
+  "version": "1.0.0",
+  "description": "Food Recipe Logger CLI and HTTP Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
